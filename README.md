@@ -1,2 +1,6 @@
 # naive-bayes-weather-classifier
-A Python implementation of the Naive Bayes Classifier from scratch for predicting play decisions based on weather conditions.  It includes manual calculations of prior, likelihood, and posterior probabilities without using scikit-learn.
+- Manual implementation of Naive Bayes (no ML libraries used)
+- Supports categorical features
+- Calculates P(x|c), P(c), and P(c|x)
+- Evaluates model accuracy on training data
+- Predicts outcome for custom weather conditions
